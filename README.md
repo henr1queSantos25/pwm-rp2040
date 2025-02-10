@@ -11,7 +11,7 @@ Este repositório contém um código para o **controle de um servomotor** utiliz
 
 ## 📹 Vídeo do Projeto  
 
-- **[Ver Vídeo](https://drive.google.com/file/d/1h1iLfhv_FEOL_PAXK5oyxLRUIgDyCT2W/view?usp=sharing)**
+- **[Ver Vídeo](https://drive.google.com/file/d/1T09BNhtxI0HTDQl10dUsw8ocDCGFOq1R/view?usp=sharing)**
 
 ## 🛠️ Tecnologias Utilizadas  
 
